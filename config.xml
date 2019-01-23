@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.phonegap.leton"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+  <name>Comboio de Moto</name>
+  <description>
+      Sinais de alerta, advertência e etc.
+  </description>
+  <author href="https://leton.esy.es/" email="elton.du@gmail.com">
+      Elton S. Costa
+  </author>
+
+    <preference name="android-minSdkVersion" value="26" />
+
+    <plugin name="cordova-plugin-splashscreen" spec="5.0.2" />
+    <plugin name="cordova-plugin-whitelist" spec="1.3.3" />
+
+
+    <!-- Define app icon for each platform. -->
+    <icon src="icon.png" />
+
+    <icon src="resources/android/icon/icon.png" gap:platform="android"
+        gap:density="ldpi" />
+    <icon src="resources/android/icon/icon.png" gap:platform="android"
+        gap:density="mdpi" />
+    <icon src="resources/android/icon/icon.png" gap:platform="android"
+        gap:density="hdpi" />
+    <icon src="resources/android/icon/icon.png" gap:platform="android"
+        gap:density="xhdpi" />
+
+    <!-- Define app splash screen for each platform. -->
+
+<preference name="SplashScreenDelay" value="5000"/>
+
+<gap:splash src="resources/android/splash/splash-land-hdpi.png" gap:platform="android" gap:qualifier="ldpi"/>
+
+
+</widget>

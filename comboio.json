@@ -1,0 +1,261 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Vamos virar a esquerda",
+        "Vamos seguir em frente",
+        "O Coelho fugiu",
+        "Pedindo para Esperar"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "image": "img/sinal01.png",
+      "number": 1,
+      "prompt": "Mão Extendida!"
+    },
+
+    {
+      "answers": [
+        "Não vou pagar o almoço",
+        "Óleo na pista",
+        "Vão para o acostamento",
+        "Vamos virar a direita"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "image": "img/sinal02.png",
+      "number": 2,
+      "prompt": "Mão Extendida e Fechada!<br>Ou com o indicador p/ direita"
+      
+    },
+
+    {
+      "answers": [
+        "Acabou minha gasolina",
+        "Trocar Coelho",
+        "Vamos Parar",
+        "Diminiur Velocidade"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "image": "img/sinal03.png",
+      "number": 3,
+      "prompt": "Mão Espalmada para baixo!"
+      
+    },
+
+    {
+      "answers": [
+        "Acelerem",
+        "Batam Palmas",
+        "Cheguem Mais Perto",
+        "Empinem Sua Moto"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "image": "img/sinal04.png",
+      "number": 4,
+      "prompt": "Palma p/ cima c/ movimento!"
+      
+    },
+
+    {
+      "answers": [
+        "Tá pegando fogo",
+        "Diminiur Velocidade",
+        "Animal na Pista",
+        "Linha de Trem"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "image": "img/sinal05.png",
+      "number": 5,
+      "prompt": "Movimento p/ cima e p/ baixo!"
+      
+    },
+
+    {
+      "answers": [
+        "Podem seguir",
+        "Me esperem",
+        "Passar na ponte",
+        "Sigam-me"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "image": "img/sinal06.png",
+      "number": 6,
+      "prompt": "P/ cima movimentando p/ frente"
+      
+    },
+
+    {
+      "answers": [
+        "Olhem meu capacete novo",
+        "Voltar para a formação",
+        "Fechem a viseira",
+        "Não estou ouvindo"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "image": "img/sinal07.png",
+      "number": 7,
+      "prompt": "Indicador em direção ao capacete!"
+      
+    },
+
+    {
+      "answers": [
+        "Sujeira na pista no lado do pé",
+        "Olhem a paisagem",
+        "Parar para descanso",
+        "Usem o freio"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "image": "img/sinal08.png",
+      "number": 8,
+      "prompt": "Indicador p/ esquerda e pé para fora!"
+      
+    },
+
+    {
+      "answers": [
+        "Aí vem chuva",
+        "Olhem que céu lindo",
+        "Formar somente uma coluna",
+        "Desfazer formação em coluna"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "image": "img/sinal09.png",
+      "number": 9,
+      "prompt": "Indicador para cima!"
+      
+    },
+
+    {
+      "answers": [
+        "Faltam 2 quilometros",
+        "Estamos chegando",
+        "Andar em segunda marcha",
+        "Formar duas colunas"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "image": "img/sinal10.png",
+      "number": 10,
+      "prompt": "Dois dedos para cima!"
+      
+    },
+
+    {
+      "answers": [
+        "Preciso ir ao banheiro",
+        "Giro alto do motor",
+        "Não cortem o giro",
+        "Trocar posição com ferrolho"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "image": "img/sinal11.png",
+      "number": 11,
+      "prompt": "Punho cerrado com movimento giratório!"
+      
+    },
+
+    {
+      "answers": [
+        "Se beber, não dirija",
+        "Falem mais alto",
+        "Morro boca do dragão",
+        "Estou com sede e/ou fome"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "image": "img/sinal12.png",
+      "number": 12,
+      "prompt": "Indicador em direção a boca!"
+      
+    },
+
+    {
+      "answers": [
+        "Minha mão está formigando",
+        "Trânsito à frente",
+        "Apague o pisca ou baixe o farol",
+        "Pedágio à frente"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "image": "img/sinal13.png",
+      "number": 13,
+      "prompt": "Braço extendido abrindo e fechando a mão"
+      
+    },
+
+    {
+      "answers": [
+        "Comboio de caminhões",
+        "Vamos sair da pista",
+        "Use o capacete",
+        "Chegaremos em 10 minutos"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "image": "img/sinal14.png",
+      "number": 14,
+      "prompt": "Indicador com movimento acima do capacete"
+      
+    },
+
+    {
+      "answers": [
+        "Ajustar posição",
+        "Túnel à frente",
+        "Parar no acostamento",
+        "Policiamento à frente"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "image": "img/sinal15.png",
+      "number": 15,
+      "prompt": "Tapinha acima do capacete"
+      
+    },
+
+    {
+      "answers": [
+        "Pneu furado",
+        "Alagamento à frente",
+        "Parar no próximo posto (abastecer)",
+        "Tirar foto da paisagem"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "image": "img/sinal16.png",
+      "number": 16,
+      "prompt": "Perdi a melância"
+      
+    }
+
+
+  ],
+  "title": "Você está pronto para seguir em comboio de moto?"
+}
