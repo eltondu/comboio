@@ -12,7 +12,7 @@
       },
       "image": "img/sinal01.png",
       "number": 1,
-      "prompt": "Mão Extendida!"
+      "prompt": "Mão Estendida!"
     },
 
     {
@@ -27,7 +27,7 @@
       },
       "image": "img/sinal02.png",
       "number": 2,
-      "prompt": "Mão Extendida e Fechada!<br>Ou com o indicador p/ direita"
+      "prompt": "Mão Estendida e Fechada!<br>Ou com o indicador p/ direita"
       
     },
 
@@ -203,7 +203,7 @@
       },
       "image": "img/sinal13.png",
       "number": 13,
-      "prompt": "Braço extendido abrindo e fechando a mão"
+      "prompt": "Braço estendido abrindo e fechando a mão"
       
     },
 
